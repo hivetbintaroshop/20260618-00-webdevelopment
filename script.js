@@ -1,5 +1,5 @@
 // GANTI NOMOR WA DI SINI. Format: 62 + nomor tanpa angka 0 depan.
-const whatsappNumber = '6281234567890';
+const whatsappNumber = '6285280040015';
 
 // Edit katalog produk di sini.
 const products = [
